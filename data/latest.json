@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-22",
+  "zt": {
+    "count": 3,
+    "items": [
+      { "code": "600000", "name": "浦发银行", "price": 10.5, "limit_days": 1, "封单金额": 120000000 },
+      { "code": "000001", "name": "平安银行", "price": 15.2, "limit_days": 2, "封单金额": 89000000 },
+      { "code": "600519", "name": "贵州茅台", "price": 1800.0, "limit_days": 1, "封单金额": 450000000 }
+    ]
+  },
+  "sector": {
+    "top": [
+      { "name": "半导体", "change_pct": 5.2, "fund_flow": 890000000 },
+      { "name": "白酒", "change_pct": 3.1, "fund_flow": 560000000 },
+      { "name": "新能源", "change_pct": 2.8, "fund_flow": 420000000 }
+    ]
+  },
+  "lhb": {
+    "count": 2,
+    "items": [
+      { "code": "600000", "name": "浦发银行", "buy_inst": ["机构专用"], "sell_inst": ["游资A"] },
+      { "code": "000001", "name": "平安银行", "buy_inst": ["游资B", "游资C"], "sell_inst": ["机构专用"] }
+    ]
+  },
+  "news": {
+    "items": [
+      { "title": "央行宣布降准0.25个百分点", "source": "财联社", "time": "2026-04-22 15:30" },
+      { "title": "半导体板块午后强势拉升", "source": "证券时报", "time": "2026-04-22 14:45" }
+    ]
+  }
+}
