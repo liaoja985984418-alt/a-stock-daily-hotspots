@@ -36,3 +36,10 @@ jobs:
             git commit -m "data: daily update $(date +%Y-%m-%d)"
             git push
           fi
+
+      - name: Trigger Vercel Deploy
+        if: success()
+        run: |
+          curl -X POST "$VERCEL_DEPLOY_HOOK"
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
