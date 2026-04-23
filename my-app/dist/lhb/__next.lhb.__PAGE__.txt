@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[31445,["/_next/static/chunks/bb87883ed8193c4e.js","/_next/static/chunks/035cca850f8ee9e9.js","/_next/static/chunks/580a61d84f8ae541.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"ybHVu2G4hmcFs8RHCOzXF","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl font-bold","children":["龙虎榜 — ","2026-04-22"]}],["$","p",null,{"className":"text-muted-foreground","children":["共 ",2," 只上榜个股"]}],["$","$L2",null,{"data":[{"code":"600000","name":"浦发银行","buy_inst":["机构专用"],"sell_inst":["游资A"]},{"code":"000001","name":"平安银行","buy_inst":["游资B","游资C"],"sell_inst":["机构专用"]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/035cca850f8ee9e9.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/580a61d84f8ae541.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

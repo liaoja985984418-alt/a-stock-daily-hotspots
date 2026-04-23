@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[31469,["/_next/static/chunks/bb87883ed8193c4e.js","/_next/static/chunks/9c989587e4052e51.js","/_next/static/chunks/580a61d84f8ae541.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"ybHVu2G4hmcFs8RHCOzXF","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-2xl font-bold","children":["板块热点 — ","2026-04-22"]}],["$","$L2",null,{"data":[{"name":"半导体","change_pct":5.2,"fund_flow":890000000},{"name":"白酒","change_pct":3.1,"fund_flow":560000000},{"name":"新能源","change_pct":2.8,"fund_flow":420000000}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/9c989587e4052e51.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/580a61d84f8ae541.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
