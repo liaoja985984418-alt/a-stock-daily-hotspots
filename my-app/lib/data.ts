@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { DailyData } from './types';
 
-const DATA_DIR = path.join(process.cwd(), '..', 'data');
+const DATA_DIR = path.join(process.cwd(), 'public', 'data');
 
 export function getDailyData(date: string): DailyData | null {
   try {
